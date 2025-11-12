@@ -1,1 +1,3 @@
-
+.adjacency graph for 2012 MD congressional district map
+..node file of precincts (population units): precinct2010_nodes_adj.csv
+..edge file between precincts (population units): precinct2010_lines_revised.csv
