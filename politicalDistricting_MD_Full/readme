@@ -1,3 +1,7 @@
 .adjacency graph for 2012 MD congressional district map
 ..node file of precincts (population units): precinct2010_nodes_adj.csv
 ..edge file between precincts (population units): precinct2010_lines_revised.csv
+
+.to generate random plans, run randomizedRounding_Phase1.py
+..requires additional module myDictionary.py
+
